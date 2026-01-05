@@ -94,16 +94,6 @@ Guccio Gucci founded the Italian luxury brand
 
 ---
 
-## 🧑‍💻 Author
-
-**Rujula More**  
-🎓 Grad Student in AI/ML  
-🌐 [Portfolio](https://rujulamore-github-io-ylyj.vercel.app)  
-📧 morer@oregonstate.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/rujula-more)
-
----
-
 ## 📜 License
 
 MIT License
